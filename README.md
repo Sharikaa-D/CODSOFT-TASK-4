@@ -83,3 +83,7 @@ Sharikaa D. – *Aspiring Data Scientist*
 📌 Project Under Internship Task on Sales Prediction using Python
 
 ---
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/3b0342f6-57be-41c3-a5a3-40efad85f0be)
+
+![Image](https://github.com/user-attachments/assets/6f104930-f8ee-442c-aabd-6f9a130c565c)
